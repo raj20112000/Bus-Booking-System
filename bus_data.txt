@@ -1,0 +1,30 @@
+002
+50
+Jaffna
+Galle
+8.00 AM
+5000.0
+003
+50
+Jaffna
+Nuwereliya
+8.00 AM
+6000.0
+004
+10
+Kandy
+Jaffna
+2.30 PM
+6500.0
+005
+2
+Kandy
+Colombo
+7.30 AM
+6000.0
+007
+32
+Jaffna
+Galle
+9.00 AM
+5000.0
